@@ -1,2 +1,1 @@
-# java_train_demo
-java技术分享时演示代码，包含java特性演示和如何写一个JavaService
+"# java_train_demo" 
